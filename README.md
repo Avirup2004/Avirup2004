@@ -16,7 +16,7 @@ Hi,👋 this is Avirup here.<br>🔭 I’m currently working on Web development 
 ![](https://github-profile-trophy.vercel.app/?username=Avirup2004&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Avirup2004&limit=5&theme=monokai&combine_all_yearly_contributions=true)
