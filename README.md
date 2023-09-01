@@ -2,7 +2,7 @@
 Hi,👋 this is Avirup here.<br>🔭 I’m currently working on Web development using MERN stack.<br>🌱 I’m currently on final year of diploma in Computer Science and Technology.<br>⚡ Fun fact :  The first “computer bug” was an actual bug.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/avirup.biswas.9083/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avirup_biswas04) 
 
 # 💻 Tech Stack:
